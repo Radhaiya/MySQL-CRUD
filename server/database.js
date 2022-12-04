@@ -21,3 +21,4 @@ db.query('SELECT * from testing', (error, results) => {
 
 
 module.exports = db;
+
