@@ -20,3 +20,6 @@ app.get('/', (req, res) => {
 app.listen(5000, () => {
     console.log(`Server is Running on 5000`  );
 })
+
+const a = 3;
+console.log(a);
